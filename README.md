@@ -26,6 +26,7 @@
 - [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
+- [TabBar](#TabBar)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Video](#Video)
@@ -143,6 +144,10 @@
 ## Slider
 [scroll to top](#readme)
 - [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+
+## TabBar
+[scroll to top](#readme)
+- [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
