@@ -8,6 +8,7 @@
 - [Image](#Image)
 - [List](#List)
 - [Loading Indicator](#Loading-Indicator)
+- [Markdown](#Markdown)
 - [Pages](#Pages)
 - [Web](#Web)
 
@@ -35,6 +36,9 @@
 ## List
 [scroll to top](#readme) 
 - [EmptyList](https://github.com/Toni77777/EmptyList) - EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state
+
+## Markdown
+- [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 
 ## Loading-Indicator
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
