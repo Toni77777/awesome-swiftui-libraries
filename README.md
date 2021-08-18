@@ -7,8 +7,8 @@
 - [Grid](#Grid)
 - [Image](#Image)
 - [List](#List)
+- [Loading Indicator](#Loading-Indicator)
 - [Pages](#Pages)
-- [Progress Activity](#Progress-Activity)
 - [Web](#Web)
 
 ## Animation
@@ -36,11 +36,11 @@
 [scroll to top](#readme) 
 - [EmptyList](https://github.com/Toni77777/EmptyList) - EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state
 
+## Loading-Indicator
+- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
+
 ## Pages
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
-
-## Progress-Activity
-- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
 
 ## Web
 [scroll to top](#readme)
