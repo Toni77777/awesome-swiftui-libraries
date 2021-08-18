@@ -10,6 +10,7 @@
 - [Collection](#Collection)
 - [Color](#Color)
 - [Extensions](#Extensions)
+- [Game](#Game)
 - [Grid](#Grid)
 - [Image](#Image)
 - [List](#List)
@@ -66,6 +67,10 @@
 ## Extensions
 [scroll to top](#readme) 
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+
+## Game
+[scroll to top](#readme)
+- [OctopusKit](https://github.com/InvadingOctopus/octopuskit) - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS
 
 ## Grid
 [scroll to top](#readme)
