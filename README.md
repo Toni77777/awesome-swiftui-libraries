@@ -144,6 +144,7 @@
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
 - [Verge](https://github.com/VergeGroup/Verge) - Verge is a very tunable state-management engine on iOS App
+- [SwiftDux](https://github.com/StevenLambion/SwiftDux) - Predictable state management for SwiftUI applications.
 
 ## Scroll
 [scroll to top](#readme)
