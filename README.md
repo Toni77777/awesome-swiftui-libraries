@@ -151,3 +151,47 @@
 [scroll to top](#readme)
 - [BottomSheet](https://github.com/weitieda/bottom-sheet) - A SwiftUI view component sliding in from bottom
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up 
+- [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
+
+## Step
+[scroll to top](#readme)
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
+
+## Skeleton
+[scroll to top](#readme)
+- [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
+
+## Slider
+[scroll to top](#readme)
+- [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+
+## Speech
+[scroll to top](#readme)
+- [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
+
+## TabBar
+[scroll to top](#readme)
+- [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
+
+## TextField
+[scroll to top](#readme)
+- [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - Floating Label TextField for SwiftUI. FloatingLabelTextFieldSwiftUI
+
+## Toast-and-Popup
+[scroll to top](#readme) 
+- [ExytePopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
+- [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
+
+## Util
+[scroll to top](#readme) 
+- [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
+
+## Video
+[scroll to top](#readme) 
+- [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
+
+## Web
+[scroll to top](#readme)
+- [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms.
+- [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) - SwiftUI with support for WebAssembly
+- [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up 
