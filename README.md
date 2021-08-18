@@ -134,6 +134,7 @@
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
 - [Pages](https://github.com/nachonavarro/Pages) - A lightweight, paging view solution for SwiftUI
 - [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
+- [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - Elegant Pager View fully written in pure SwiftUI
 
 ## Payment
 [scroll to top](#readme)
