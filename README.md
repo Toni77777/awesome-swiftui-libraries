@@ -25,6 +25,7 @@
 - [Scroll](#Scroll)
 - [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
+- [Slider](#Slider)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Video](#Video)
@@ -138,6 +139,10 @@
 ## Skeleton
 [scroll to top](#readme)
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
+
+## Slider
+[scroll to top](#readme)
+- [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
