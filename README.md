@@ -10,6 +10,7 @@
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
 - [Pages](#Pages)
+- [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Web](#Web)
 
@@ -48,6 +49,9 @@
 ## Pages
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
+
+## Toast-and-Popup
+- [ExytePopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 
 ## Util
 -[ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
