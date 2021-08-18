@@ -73,6 +73,7 @@
 - [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 - [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
+- [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
 
 ## Clock
 [scroll to top](#readme)
