@@ -20,6 +20,7 @@
 - [Payment](#Payment)
 - [Permission](#Permission)
 - [State](#State)
+- [Step](#Step)
 - [Scroll](#Scroll)
 - [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
@@ -109,6 +110,10 @@
 ## State
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
+
+## Step
+[scroll to top](#readme)
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
 ## Scroll
 [scroll to top](#readme)
