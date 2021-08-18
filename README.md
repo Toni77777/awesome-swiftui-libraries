@@ -129,6 +129,7 @@
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path based routing in SwiftUI
 - [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 - [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
+- [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 
 ## Pages
 [scroll to top](#readme) 
