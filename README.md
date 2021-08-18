@@ -67,6 +67,7 @@
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 - [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
+- [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
 
 ## Clock
 [scroll to top](#readme)
