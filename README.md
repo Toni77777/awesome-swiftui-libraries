@@ -64,6 +64,7 @@
 - [SlideOverCard](https://github.com/joogps/SlideOverCard) - A SwiftUI card view, made great for setup interactions.
 - [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS
 - [RGStack](https://github.com/terminatorover/RGStack) - This UI attempts to capture the Quibi Card Stack and the associated User Interaction
+- [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI
 
 ## Chart
 [scroll to top](#readme)
