@@ -27,6 +27,7 @@
 - [Skeleton](#Skeleton)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
+- [Video](#Video)
 - [Web](#Web)
 
 ## Alert
@@ -145,6 +146,10 @@
 ## Util
 [scroll to top](#readme) 
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
+
+## Video
+[scroll to top](#readme) 
+- [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
 
 ## Web
 [scroll to top](#readme)
