@@ -22,8 +22,8 @@
 - [Payment](#Payment)
 - [Permission](#Permission)
 - [State](#State)
-- [Step](#Step)
 - [Scroll](#Scroll)
+- [Step](#Step)
 - [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
@@ -62,6 +62,7 @@
 - [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 - [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
+- [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 
 ## Collection
 [scroll to top](#readme)
@@ -133,13 +134,13 @@
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
 - [Verge](https://github.com/VergeGroup/Verge) - Verge is a very tunable state-management engine on iOS App
 
-## Step
-[scroll to top](#readme)
-- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
-
 ## Scroll
 [scroll to top](#readme)
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
+
+## Step
+[scroll to top](#readme)
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
 ## Sheet
 [scroll to top](#readme)
