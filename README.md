@@ -129,6 +129,7 @@
 ## State
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
+- [Verge](https://github.com/VergeGroup/Verge) - Verge is a very tunable state-management engine on iOS App
 
 ## Step
 [scroll to top](#readme)
