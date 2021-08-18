@@ -192,6 +192,7 @@
 ## TabBar
 [scroll to top](#readme)
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
+- [FloatingTabBar](https://github.com/10011co/FloatingTabBar) - Aesthetic floating tab bar
 
 ## TextField
 [scroll to top](#readme)
