@@ -124,6 +124,7 @@
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
 - [TTProgressHUD](https://github.com/honkmaster/TTProgressHUD) - TTProgressHUD is a light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS
 - [LoaderUI](https://github.com/ninjaprox/LoaderUI) - NVActivityIndicatorView implemented in SwiftUI
+- [JGProgressHUD-SwiftUI](https://github.com/JonasGessner/JGProgressHUD-SwiftUI) - Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst
 
 ## Markdown
 [scroll to top](#readme) 
