@@ -7,7 +7,7 @@
 
 ## Color
 [scroll to top](#readme)
-- [DynamicColor](https://github.com/yannickl/DynamicColor)
+- [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
 
 ## Extensions
 [scroll to top](#readme) 
