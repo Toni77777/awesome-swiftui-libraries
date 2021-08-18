@@ -27,6 +27,7 @@
 - [Step](#Step)
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
+- [Speech](#Speech)
 - [TabBar](#TabBar)
 - [TextField](#TextField)
 - [Toast and Popup](#Toast-and-Popup)
@@ -155,6 +156,10 @@
 ## Slider
 [scroll to top](#readme)
 - [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+
+## Speech
+[scroll to top](#readme)
+- [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
 
 ## TabBar
 [scroll to top](#readme)
