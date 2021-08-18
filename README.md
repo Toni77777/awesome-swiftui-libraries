@@ -127,6 +127,7 @@
 [scroll to top](#readme)
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path based routing in SwiftUI
 - [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
+- [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 
 ## Pages
 [scroll to top](#readme) 
@@ -197,6 +198,7 @@
 [scroll to top](#readme) 
 - [ExytePopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
+- [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 
 ## Util
 [scroll to top](#readme) 
