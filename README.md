@@ -50,6 +50,7 @@
 ## Chart
 [scroll to top](#readme)
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
+- [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
 
 ## Collection
 [scroll to top](#readme)
