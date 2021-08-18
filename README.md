@@ -13,6 +13,7 @@
 - [Markdown](#Markdown)
 - [Pages](#Pages)
 - [State](#State)
+- [Skeleton](#Skeleton)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Web](#Web)
@@ -67,6 +68,10 @@
 ## State
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
+
+## Skeleton
+[scroll to top](#readme)
+- [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
