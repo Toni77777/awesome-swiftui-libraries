@@ -2,6 +2,7 @@
 
 ### Content
 - [Animation](#Animation)
+- [Card](#Card)
 - [Chart](#Chart)
 - [Collection](#Collection)
 - [Color](#Color)
@@ -13,6 +14,7 @@
 - [Markdown](#Markdown)
 - [Pages](#Pages)
 - [State](#State)
+- [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
@@ -21,6 +23,10 @@
 ## Animation
 [scroll to top](#readme)
 - [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
+
+## Card
+[scroll to top](#readme)
+- [SlideOverCard](https://github.com/joogps/SlideOverCard) - A SwiftUI card view, made great for setup interactions.
 
 ## Chart
 [scroll to top](#readme)
@@ -68,6 +74,10 @@
 ## State
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
+
+## Sheet
+[scroll to top](#readme)
+- [BottomSheet](https://github.com/weitieda/bottom-sheet) - A SwiftUI view component sliding in from bottom
 
 ## Skeleton
 [scroll to top](#readme)
