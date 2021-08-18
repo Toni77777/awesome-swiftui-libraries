@@ -49,6 +49,7 @@
 ## Calendar
 [scroll to top](#readme)
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS
+- [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ## Card
 [scroll to top](#readme)
