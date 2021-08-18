@@ -1,6 +1,7 @@
 # Awesome SwiftUI Libraries :rocket: :rocket: :rocket:
 
 ### Content
+- [Alert](#Alert)
 - [Animation](#Animation)
 - [Card](#Card)
 - [Chart](#Chart)
@@ -12,6 +13,7 @@
 - [List](#List)
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
+- [Navigation](#Navigation)
 - [Pages](#Pages)
 - [State](#State)
 - [Sheet](#Sheet)
@@ -19,6 +21,10 @@
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Web](#Web)
+
+## Alert
+[scroll to top](#readme)
+- [AlertToast-SwiftUI](AlertToast-SwiftUI) - Create Apple-like alerts & toasts using SwiftUI
 
 ## Animation
 [scroll to top](#readme)
@@ -62,6 +68,10 @@
 ## Markdown
 [scroll to top](#readme) 
 - [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
+
+## Navigation
+[scroll to top](#readme)
+- [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path based routing in SwiftUI
 
 ## Loading-Indicator
 [scroll to top](#readme) 
