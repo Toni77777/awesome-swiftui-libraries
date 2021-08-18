@@ -3,6 +3,8 @@
 ### Content
 - [Alert](#Alert)
 - [Animation](#Animation)
+- [Button](#Button)
+- [Calendar](#Calendar)
 - [Card](#Card)
 - [Chart](#Chart)
 - [Collection](#Collection)
@@ -31,6 +33,14 @@
 [scroll to top](#readme)
 - [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 - [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) - SwiftUI Animation
+
+## Button
+[scroll to top](#readme)
+- [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
+
+## Calendar
+[scroll to top](#readme)
+- [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS
 
 ## Card
 [scroll to top](#readme)
