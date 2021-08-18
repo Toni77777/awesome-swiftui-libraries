@@ -71,6 +71,7 @@
 [scroll to top](#readme)
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
+- [GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
 
 ## Image 
 [scroll to top](#readme) 
