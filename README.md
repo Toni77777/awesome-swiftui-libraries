@@ -7,6 +7,7 @@
 - [Calendar](#Calendar)
 - [Card](#Card)
 - [Chart](#Chart)
+- [Clock](#Clock)
 - [Collection](#Collection)
 - [Color](#Color)
 - [Debug](#Debug)
@@ -64,6 +65,10 @@
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 - [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
+
+## Clock
+[scroll to top](#readme)
+- [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - SwiftUI library to display a clock. You can move the arms to change the time, change the style of the clock and customise some configurations.
 
 ## Collection
 [scroll to top](#readme)
