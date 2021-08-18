@@ -23,8 +23,8 @@
 - [Permission](#Permission)
 - [State](#State)
 - [Scroll](#Scroll)
-- [Step](#Step)
 - [Sheet](#Sheet)
+- [Step](#Step)
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [TabBar](#TabBar)
@@ -138,15 +138,15 @@
 [scroll to top](#readme)
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
 
-## Step
-[scroll to top](#readme)
-- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
-
 ## Sheet
 [scroll to top](#readme)
 - [BottomSheet](https://github.com/weitieda/bottom-sheet) - A SwiftUI view component sliding in from bottom
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
+
+## Step
+[scroll to top](#readme)
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
 ## Skeleton
 [scroll to top](#readme)
