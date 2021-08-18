@@ -4,6 +4,7 @@
 - [Animation](#Animation)
 - [Color](#Color)
 - [Extensions](#Extensions)
+- [Grid](#Grid)
 - [Image](#Image)
 - [List](#List)
 
@@ -18,6 +19,10 @@
 ## Extensions
 [scroll to top](#readme) 
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+
+## Grid
+[scroll to top](#readme)
+- [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 
 ## Image 
 [scroll to top](#readme) 
