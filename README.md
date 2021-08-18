@@ -1,4 +1,4 @@
-# Awesome-swiftui-libraries :rocket: :rocket: :rocket:
+# Awesome SwiftUI Libraries :rocket: :rocket: :rocket:
 
 ### Content
 - [Animation](#Animation)
