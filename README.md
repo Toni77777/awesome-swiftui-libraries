@@ -193,5 +193,4 @@
 ## Web
 [scroll to top](#readme)
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms.
-- [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) - SwiftUI with support for WebAssembly
-- [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up 
+- [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) - SwiftUI with support for WebAssembly 
