@@ -61,6 +61,7 @@
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
 - [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
+- [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
 
 ## Collection
 [scroll to top](#readme)
