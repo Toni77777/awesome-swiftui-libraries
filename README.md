@@ -10,6 +10,7 @@
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
 - [Pages](#Pages)
+- [Util](#Util)
 - [Web](#Web)
 
 ## Animation
@@ -47,6 +48,9 @@
 ## Pages
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
+
+## Util
+-[ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 
 ## Web
 [scroll to top](#readme)
