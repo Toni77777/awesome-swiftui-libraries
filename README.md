@@ -157,6 +157,7 @@
 - [BottomSheet](https://github.com/weitieda/bottom-sheet) - A SwiftUI view component sliding in from bottom
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up 
 - [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
+- [BottomSheet (LucasMucGH)](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 
 ## Step
 [scroll to top](#readme)
