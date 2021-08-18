@@ -84,6 +84,7 @@
 ## Markdown
 [scroll to top](#readme) 
 - [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
+- [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
 
 ## Navigation
 [scroll to top](#readme)
