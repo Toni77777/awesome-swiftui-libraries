@@ -136,6 +136,7 @@
 - [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [NavigationKit](https://github.com/rebeloper/NavigationKit) - SwiftUI navigation done right
+- [Router](https://github.com/1amageek/Router) - Router is a library that assists with SwiftUI view transitions.
 
 ## Pages
 [scroll to top](#readme) 
