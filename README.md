@@ -22,6 +22,7 @@
 - [Pages](#Pages)
 - [Payment](#Payment)
 - [Permission](#Permission)
+- [QRCode](#QRCode)
 - [State](#State)
 - [Scroll](#Scroll)
 - [Shapes](#Shapes)
@@ -139,6 +140,10 @@
 ## Permission
 [scroll to top](#readme)
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
+
+## QRCode
+[scroll to top](#readme)
+- [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
 
 ## State
 [scroll to top](#readme)
