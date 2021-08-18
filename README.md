@@ -102,6 +102,10 @@
 [scroll to top](#readme) 
 - [EmptyList](https://github.com/Toni77777/EmptyList) - EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state
 
+## Loading-Indicator
+[scroll to top](#readme) 
+- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
+
 ## Markdown
 [scroll to top](#readme) 
 - [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
@@ -111,10 +115,6 @@
 [scroll to top](#readme)
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path based routing in SwiftUI
 - [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
-
-## Loading-Indicator
-[scroll to top](#readme) 
-- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
 
 ## Pages
 [scroll to top](#readme) 
