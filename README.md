@@ -9,6 +9,7 @@
 - [Chart](#Chart)
 - [Collection](#Collection)
 - [Color](#Color)
+- [Debug](#Debug)
 - [Extensions](#Extensions)
 - [Game](#Game)
 - [Grid](#Grid)
@@ -66,6 +67,10 @@
 ## Color
 [scroll to top](#readme)
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
+
+## Debug
+[scroll to top](#readme)
+- [LocalConsole](https://github.com/duraidabdul/LocalConsole) - In-app console and debug tools for iOS developers
 
 ## Extensions
 [scroll to top](#readme) 
