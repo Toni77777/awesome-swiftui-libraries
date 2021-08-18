@@ -97,6 +97,7 @@
 - [url-image](https://github.com/dmytro-anokhin/url-image) - AsyncImage before iOS 15. Lightweight, pure SwiftUI Image view, that displays an image downloaded from URL, with auxiliary views and local cache.
 - [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
 - [NukeUI](https://github.com/kean/NukeUI) - Lazy image loading for SwiftUI
+- [SwURL](https://github.com/cmtrounce/SwURL) - Lightweight asynchronous image loading in SwiftUI. Fetch and display images from URLs.
 
 ## List
 [scroll to top](#readme) 
@@ -122,6 +123,7 @@
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 - [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions
 - [Pages](https://github.com/nachonavarro/Pages) - A lightweight, paging view solution for SwiftUI
+- [fredyshox/PageView](https://github.com/fredyshox/PageView) - SwiftUI view enabling navigation between pages of content, imitating the behaviour of UIPageViewController for iOS and watchOS
 
 ## Payment
 [scroll to top](#readme)
