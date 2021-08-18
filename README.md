@@ -1,5 +1,3 @@
-# awesome-swiftui-libraries
-
 # Awesome-swiftui-libraries :rocket: :rocket: :rocket:
 
 ### Content
