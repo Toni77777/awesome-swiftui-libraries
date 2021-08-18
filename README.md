@@ -20,6 +20,7 @@
 - [Payment](#Payment)
 - [Permission](#Permission)
 - [State](#State)
+- [Scroll](#Scroll)
 - [Sheet](#Sheet)
 - [Skeleton](#Skeleton)
 - [Toast and Popup](#Toast-and-Popup)
@@ -106,6 +107,10 @@
 ## State
 [scroll to top](#readme)
 - [Pigeon](https://github.com/fmo91/Pigeon) - Async state management for SwiftUI
+
+## Scroll
+[scroll to top](#readme)
+- [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
 
 ## Sheet
 [scroll to top](#readme)
