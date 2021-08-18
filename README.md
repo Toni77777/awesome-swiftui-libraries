@@ -109,6 +109,7 @@
 [scroll to top](#readme) 
 - [AdvancedList](https://github.com/crelies/AdvancedList) - Advanced List View for SwiftUI with pagination & different states
 - [EmptyList](https://github.com/Toni77777/EmptyList) - EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state
+- [SwipeCell](https://github.com/EnesKaraosman/SwipeCell) - Swipe Left2Right & Right2Left, pure SwiftUI implementation
 
 ## Loading-Indicator
 [scroll to top](#readme) 
