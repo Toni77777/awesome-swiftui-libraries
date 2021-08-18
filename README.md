@@ -171,6 +171,7 @@
 ## Shapes
 [scroll to top](#readme)
 - [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of SwiftUI shapes
+- [morphi](https://github.com/phimage/morphi) - Shapes for SwiftUI
 
 ## Sheet
 [scroll to top](#readme)
