@@ -7,6 +7,7 @@
 - [Grid](#Grid)
 - [Image](#Image)
 - [List](#List)
+- [Pages](#Pages)
 - [Web](#Web)
 
 ## Animation
@@ -33,6 +34,9 @@
 ## List
 [scroll to top](#readme) 
 - [EmptyList](https://github.com/Toni77777/EmptyList) - EmptyList - List(SwiftUI) supports displaying Empty ListView for empty state
+
+## Pages
+- [https://github.com/fermoya/SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Native Pager in SwiftUI
 
 ## Web
 [scroll to top](#readme)
