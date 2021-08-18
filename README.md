@@ -51,6 +51,7 @@
 ## Button
 [scroll to top](#readme)
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
+- [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect
 
 ## Calendar
 [scroll to top](#readme)
