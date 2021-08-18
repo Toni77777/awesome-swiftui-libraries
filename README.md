@@ -28,6 +28,7 @@
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [TabBar](#TabBar)
+- [TextField](#TextField)
 - [Toast and Popup](#Toast-and-Popup)
 - [Util](#Util)
 - [Video](#Video)
@@ -157,9 +158,14 @@
 [scroll to top](#readme)
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 
+## TextField
+[scroll to top](#readme)
+- [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - Floating Label TextField for SwiftUI. FloatingLabelTextFieldSwiftUI
+
 ## Toast-and-Popup
 [scroll to top](#readme) 
 - [ExytePopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
+- [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
 
 ## Util
 [scroll to top](#readme) 
