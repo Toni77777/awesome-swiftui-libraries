@@ -142,6 +142,7 @@
 [scroll to top](#readme)
 - [BottomSheet](https://github.com/weitieda/bottom-sheet) - A SwiftUI view component sliding in from bottom
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - A SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
+- [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 
 ## Skeleton
 [scroll to top](#readme)
