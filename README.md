@@ -4,6 +4,7 @@
 - [Animation](#Animation)
 - [Color](#Color)
 - [Extensions](#Extensions)
+- [Image](#Image)
 - [List](#List)
 
 ## Animation
@@ -17,6 +18,10 @@
 ## Extensions
 [scroll to top](#readme) 
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
+
+## Image 
+[scroll to top](#readme) 
+- [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 
 ## List
 [scroll to top](#readme) 
