@@ -74,7 +74,7 @@
 
 ## Util
 [scroll to top](#readme) 
--[ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
+- [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 
 ## Web
 [scroll to top](#readme)
