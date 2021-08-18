@@ -24,6 +24,7 @@
 - [Permission](#Permission)
 - [State](#State)
 - [Scroll](#Scroll)
+- [Shapes](#Shapes)
 - [Sheet](#Sheet)
 - [Step](#Step)
 - [Skeleton](#Skeleton)
@@ -146,6 +147,10 @@
 ## Scroll
 [scroll to top](#readme)
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
+
+## Shapes
+[scroll to top](#readme)
+- [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of SwiftUI shapes
 
 ## Sheet
 [scroll to top](#readme)
