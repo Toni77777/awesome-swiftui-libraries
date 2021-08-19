@@ -36,7 +36,7 @@
 - [TabBar](#TabBar)
 - [TextField](#TextField)
 - [Toast and Popup](#Toast-and-Popup)
-- [Util](#Util)
+- [Unit-testing](#Unit-testing])
 - [Video](#Video)
 - [Web](#Web)
 
@@ -217,7 +217,7 @@
 - [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 
-## Util
+## Unit-testing
 [scroll to top](#readme) 
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
 
