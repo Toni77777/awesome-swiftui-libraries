@@ -42,7 +42,7 @@
 
 ## Alert
 [scroll to top](#readme)
-- [AlertToast-SwiftUI](AlertToast-SwiftUI) - Create Apple-like alerts & toasts using SwiftUI
+- [AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
 
 ## Animation
 [scroll to top](#readme)
