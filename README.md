@@ -43,6 +43,7 @@
 ## Alert
 [scroll to top](#readme)
 - [AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
+- [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 
 ## Animation
 [scroll to top](#readme)
