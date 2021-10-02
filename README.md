@@ -70,7 +70,6 @@
 - [SlideOverCard](https://github.com/joogps/SlideOverCard) - A SwiftUI card view, made great for setup interactions.
 - [SwiftUI-CardStackView](https://github.com/dadalar/SwiftUI-CardStackView) - A easy-to-use SwiftUI view for Tinder like cards on iOS, macOS & watchOS
 - [RGStack](https://github.com/terminatorover/RGStack) - This UI attempts to capture the Quibi Card Stack and the associated User Interaction
-- [Rings](https://github.com/chenhaiteng/Rings) - Rings provides some UI with the Ring, Circle or other similar shapes.
 - [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI
 
 ## Chart
@@ -79,6 +78,7 @@
 - [swiftui-charts](https://github.com/spacenation/swiftui-charts) - SwiftUI Charts with custom styles
 - [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) - SwiftUI library to easily render diagrams given a tree of objects. Similar to ring chart, sunburst chart, multilevel pie chart.
 - [SwiftUIFourierSeries](https://github.com/simonboots/SwiftUIFourierSeries) - A Fourier Series visualisation written in Swift/SwiftUI
+- [Rings](https://github.com/chenhaiteng/Rings) - Rings provides some UI with the Ring, Circle or other similar shapes.
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 - [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
 - [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
