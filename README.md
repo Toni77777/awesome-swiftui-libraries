@@ -29,7 +29,7 @@
 - [Permission](#Permission)
 - [Preview](#Preview)
 - [QRCode](#QRCode)
-- [Search](#SwiftlySearch)
+- [Search](#Search)
 - [State](#State)
 - [Scroll](#Scroll)
 - [Shapes](#Shapes)
