@@ -7,6 +7,7 @@
 ### Content
 - [Alert](#Alert)
 - [Animation](#Animation)
+- [Blur](#Blur)
 - [Button](#Button)
 - [Calendar](#Calendar)
 - [Card](#Card)
@@ -57,6 +58,10 @@
 - [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 - [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) - SwiftUI Animation
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation
+
+## Blur
+[scroll to top](#readme)
+- [SwiftUIVisualEffects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 
 ## Button
 [scroll to top](#readme)
@@ -257,10 +262,6 @@
 ## Video
 [scroll to top](#readme) 
 - [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
-
-## VisualEffect
-[scroll to top](#readme)
-- [SwiftUIVisualEffects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 
 ## Web
 [scroll to top](#readme)
