@@ -44,6 +44,7 @@
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
 - [Video](#Video)
+- [VisualEffect](#VisualEffect)
 - [Web](#Web)
 
 ## Alert
@@ -256,6 +257,10 @@
 ## Video
 [scroll to top](#readme) 
 - [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
+
+## VisualEffect
+[scroll to top](#readme)
+- [SwiftUIVisualEffects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 
 ## Web
 [scroll to top](#readme)
