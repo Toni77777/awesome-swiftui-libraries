@@ -99,6 +99,7 @@
 ## CoreData
 [scroll to top](#readme)
 - [PredicateKit](https://github.com/ftchirou/PredicateKit) - PredicateKit allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
+- [SwiftDB](https://github.com/vmanot/SwiftDB) - A modern database abstraction layer, batteries included.
 
 ## Debug
 [scroll to top](#readme)
