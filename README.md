@@ -221,6 +221,7 @@
 - [Snap](https://github.com/nerdsupremacist/Snap) - A customizable Snapping Drawer à la Apple Maps. 100% in SwiftUI.
 - [BottomSheet (LucasMucGH)](https://github.com/LucasMucGH/BottomSheet) - A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.
 - [ActionOver](https://github.com/AndreaMiotto/ActionOver) - A custom SwiftUI modifier to present an ActionSheet or a Popover menu
+- [BetterSheet](https://github.com/egeniq/BetterSheet) - A powerful SwiftUI sheet replacement
 
 ## Step
 [scroll to top](#readme)
