@@ -12,6 +12,7 @@
 - [Calendar](#Calendar)
 - [Card](#Card)
 - [Chart](#Chart)
+- [Carousel](#Carousel)
 - [Clock](#Clock)
 - [Collection](#Collection)
 - [Color](#Color)
@@ -95,6 +96,10 @@
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 - [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
 - [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
+
+## Carousel
+[scroll to top](#readme)
+- [ACarousel](https://github.com/JWAutumn/ACarousel) - A carousel view for SwiftUI
 
 ## Clock
 [scroll to top](#readme)
