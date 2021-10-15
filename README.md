@@ -274,6 +274,7 @@
 ## Video
 [scroll to top](#readme) 
 - [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
+- [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos
 
 ## Web
 [scroll to top](#readme)
