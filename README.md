@@ -14,6 +14,7 @@
 - [Clock](#Clock)
 - [Collection](#Collection)
 - [Color](#Color)
+- [CoreData](#CoreData)
 - [Debug](#Debug)
 - [Extensions](#Extensions)
 - [Game](#Game)
@@ -94,6 +95,10 @@
 ## Color
 [scroll to top](#readme)
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
+
+##  CoreData
+[scroll to top](#readme)
+- [PredicateKit](https://github.com/ftchirou/PredicateKit) - PredicateKit allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
 
 ## Debug
 [scroll to top](#readme)
