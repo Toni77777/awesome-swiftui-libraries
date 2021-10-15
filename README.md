@@ -127,6 +127,7 @@
 ## Grid
 [scroll to top](#readme)
 - [BSZoomGridScrollView](https://github.com/boraseoksoon/BSZoomGridScrollView) - Fun GridScrollView written in SwiftUI + Combine, bridging between UIKit
+- [FlowStack](https://github.com/johnsusek/FlowStack) - A grid layout view for SwiftUI
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
