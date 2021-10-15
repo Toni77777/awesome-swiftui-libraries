@@ -74,6 +74,7 @@
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS
 - [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [DateGrid](https://github.com/yodagamaheshan/DateGrid) - A customizable swiftui calendar
+- [ECWeekView](https://github.com/EvanCooper9/swift-week-view) - An iOS calendar library for displaying calendar events in a week view
 
 ## Card
 [scroll to top](#readme)
