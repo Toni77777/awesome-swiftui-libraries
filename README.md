@@ -39,6 +39,7 @@
 - [Speech](#Speech)
 - [TabBar](#TabBar)
 - [TextField](#TextField)
+- [TextView](#TextView)
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
 - [Video](#Video)
@@ -230,6 +231,10 @@
 - [CurrencyText](https://github.com/marinofelipe/CurrencyText) - Currency text field formatter
 - [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - Floating Label TextField for SwiftUI. FloatingLabelTextFieldSwiftUI
 - [iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Elegant SwiftUI phone number textField
+
+## TextView
+[scroll to top](#readme)
+- [TextView](https://github.com/kenmueller/TextView) - The missing TextView in SwiftUI
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
