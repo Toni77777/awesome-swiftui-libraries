@@ -187,6 +187,7 @@
 ## Preview
 [scroll to top](#readme)
 - [PreviewDevice](https://github.com/Toni77777/PreviewDevice) - PreviewDevice - library with elegant syntax for Preview Device in SwiftUI
+- [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit
 - [SafePreviewDevice](https://github.com/posix88/SafePreviewDevice) - Safe and fast access to SwiftUI PreviewDevice.
 
 ## QRCode
