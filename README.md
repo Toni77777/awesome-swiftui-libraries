@@ -134,6 +134,7 @@
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
+- [Micro](https://github.com/onmyway133/Micro) - Fast diffing and type safe SwiftUI style data source for UICollectionView
 
 ## Image 
 [scroll to top](#readme) 
