@@ -59,7 +59,6 @@
 [scroll to top](#readme)
 - [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 - [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) - SwiftUI Animation
-- [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation
 
 ## Blur
 [scroll to top](#readme)
@@ -112,6 +111,7 @@
 ## Confetti
 [scroll to top](#readme)
 - [ConfettiView](https://github.com/ziligy/ConfettiView) - a Confetti View for SwiftUI
+- [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation
 
 ## CoreData
 [scroll to top](#readme)
