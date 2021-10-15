@@ -29,6 +29,7 @@
 - [Permission](#Permission)
 - [Preview](#Preview)
 - [QRCode](#QRCode)
+- [Search](#SwiftlySearch)
 - [State](#State)
 - [Scroll](#Scroll)
 - [Shapes](#Shapes)
@@ -182,6 +183,10 @@
 [scroll to top](#readme)
 - [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
 - [CodeScanner](https://github.com/twostraws/CodeScanner) - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
+
+## Search
+[scroll to top](#readme)
+- [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
 
 ## State
 [scroll to top](#readme)
