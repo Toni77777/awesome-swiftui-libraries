@@ -221,6 +221,7 @@
 ## Slider
 [scroll to top](#readme)
 - [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
+- [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - A sliding ruler control for SwiftUI
 
 ## Speech
 [scroll to top](#readme)
