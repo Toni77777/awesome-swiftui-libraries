@@ -62,6 +62,7 @@
 
 ## Blur
 [scroll to top](#readme)
+- [Colorful](https://github.com/Co2333/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background
 - [SwiftUIVisualEffects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 
 ## Button
