@@ -233,6 +233,7 @@
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
+- [Drops](https://github.com/omaralbeik/Drops) - A µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil
 - [ExytePopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [ToastUI](https://github.com/quanshousio/ToastUI) - A simple way to show toast in SwiftUI.
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
