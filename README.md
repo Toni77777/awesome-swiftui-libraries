@@ -96,6 +96,7 @@
 - [RHLinePlot](https://github.com/aunnnn/RHLinePlot) - Line plot like in Robinhood app in SwiftUI
 - [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
 - [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
+- [LightChart](https://github.com/pichukov/LightChart) - SwiftUI charts
 
 ## Carousel
 [scroll to top](#readme)
