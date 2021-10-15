@@ -15,6 +15,7 @@
 - [Clock](#Clock)
 - [Collection](#Collection)
 - [Color](#Color)
+- [Confetti](#Confetti)
 - [CoreData](#CoreData)
 - [Debug](#Debug)
 - [Extensions](#Extensions)
@@ -107,6 +108,10 @@
 ## Color
 [scroll to top](#readme)
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
+
+## Confetti
+[scroll to top](#readme)
+- [ConfettiView](https://github.com/ziligy/ConfettiView) - a Confetti View for SwiftUI
 
 ## CoreData
 [scroll to top](#readme)
