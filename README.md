@@ -41,6 +41,7 @@
 - [TextField](#TextField)
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
+- [Util](#Util)
 - [Video](#Video)
 - [Web](#Web)
 
@@ -238,6 +239,10 @@
 ## Unit-testing
 [scroll to top](#readme) 
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
+
+## Util
+[scroll to top](#readme)
+- [EnvironmentOverrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
 
 ## Video
 [scroll to top](#readme) 
