@@ -41,7 +41,6 @@
 - [TextField](#TextField)
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
-- [Util](#Util)
 - [Video](#Video)
 - [Web](#Web)
 
@@ -97,13 +96,14 @@
 [scroll to top](#readme)
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
 
-##  CoreData
+## CoreData
 [scroll to top](#readme)
 - [PredicateKit](https://github.com/ftchirou/PredicateKit) - PredicateKit allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
 
 ## Debug
 [scroll to top](#readme)
 - [LocalConsole](https://github.com/duraidabdul/LocalConsole) - In-app console and debug tools for iOS developers
+- [EnvironmentOverrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
 
 ## Extensions
 [scroll to top](#readme) 
@@ -239,10 +239,6 @@
 ## Unit-testing
 [scroll to top](#readme) 
 - [ViewInspector](https://github.com/nalexn/ViewInspector) - Runtime introspection and unit testing of SwiftUI views
-
-## Util
-[scroll to top](#readme)
-- [EnvironmentOverrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly!
 
 ## Video
 [scroll to top](#readme) 
