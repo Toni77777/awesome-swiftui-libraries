@@ -97,6 +97,7 @@
 - [BarChart](https://github.com/romanbaitaliuk/BarChart) - SwiftUI Bar Chart
 - [stock-charts](https://github.com/denniscm190/stock-charts) - SwiftUI stock charts for iOS
 - [LightChart](https://github.com/pichukov/LightChart) - SwiftUI charts
+- [DSFSparkline](https://github.com/dagronf/DSFSparkline) - A lightweight sparkline component for macOS, iOS and tvOS
 
 ## Carousel
 [scroll to top](#readme)
