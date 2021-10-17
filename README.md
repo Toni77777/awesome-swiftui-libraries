@@ -22,6 +22,7 @@
 - [Debug](#Debug)
 - [Extensions](#Extensions)
 - [Game](#Game)
+- [Gradient](#Gradient)
 - [Grid](#Grid)
 - [Image](#Image)
 - [List](#List)
@@ -144,6 +145,10 @@
 ## Game
 [scroll to top](#readme)
 - [OctopusKit](https://github.com/InvadingOctopus/octopuskit) - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS
+
+## Gradient 
+[scroll to top](#readme)
+- [IrregularGradient](https://github.com/joogps/IrregularGradient) - Create animated irregular gradients in SwiftUI
 
 ## Grid
 [scroll to top](#readme)
