@@ -121,6 +121,7 @@
 [scroll to top](#readme)
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
 - [SwiftUIColourWheel](https://github.com/Priva28/SwiftUIColourWheel) - A colour wheel made all in SwiftUI
+- [ColorPickerRing](https://github.com/hendriku/ColorPicker) - Simple color picker. Looks like a wheel. Plain SwiftUI
 
 ## Confetti
 [scroll to top](#readme)
