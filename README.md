@@ -10,6 +10,7 @@
 - [Blur](#Blur)
 - [Button](#Button)
 - [Calendar](#Calendar)
+- [Camera](#Camera)
 - [Card](#Card)
 - [Chart](#Chart)
 - [Carousel](#Carousel)
@@ -77,6 +78,10 @@
 - [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 - [DateGrid](https://github.com/yodagamaheshan/DateGrid) - A customizable swiftui calendar
 - [ECWeekView](https://github.com/EvanCooper9/swift-week-view) - An iOS calendar library for displaying calendar events in a week view
+
+## Camera
+[scroll to top](#readme)
+- [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
 
 ## Card
 [scroll to top](#readme)
