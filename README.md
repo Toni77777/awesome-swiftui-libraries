@@ -221,11 +221,13 @@
 - [PreviewDevice](https://github.com/Toni77777/PreviewDevice) - PreviewDevice - library with elegant syntax for Preview Device in SwiftUI
 - [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit
 - [SafePreviewDevice](https://github.com/posix88/SafePreviewDevice) - Safe and fast access to SwiftUI PreviewDevice.
+- [FigmaPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) - Figma component preview for your SwiftUI views
+- [ZeplinPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) - Zeplin component preview for your SwiftUI views
 
 ## QRCode
 [scroll to top](#readme)
 - [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
-- [CodeScanner](https://github.com/twostraws/CodeScanner) - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
+- [CodeScanner](https://github.com/eDeniska/zeplin-preview-swiftui) - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
 
 ## Search
 [scroll to top](#readme)
