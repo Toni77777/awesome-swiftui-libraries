@@ -280,6 +280,7 @@
 - [CurrencyText](https://github.com/marinofelipe/CurrencyText) - Currency text field formatter
 - [FloatingLabelTextFieldSwiftUI](https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI) - Floating Label TextField for SwiftUI. FloatingLabelTextFieldSwiftUI
 - [iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Elegant SwiftUI phone number textField
+- [OmenTextField](https://github.com/kitlangton/OmenTextField) - A better TextField for SwiftUI. A growing, multiline, auto-focusable TextField supporting bindable focus
 
 ## TextView
 [scroll to top](#readme)
