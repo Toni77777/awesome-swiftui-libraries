@@ -83,6 +83,7 @@
 ## Camera
 [scroll to top](#readme)
 - [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
+- [SwiftUICam](https://github.com/pierreveron/SwiftUICam) - A Snapchat Style Camera View to use with a SwiftUI interface
 
 ## Card
 [scroll to top](#readme)
