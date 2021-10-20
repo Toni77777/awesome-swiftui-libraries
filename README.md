@@ -163,6 +163,7 @@
 
 ## Image 
 [scroll to top](#readme) 
+- [AnimatedImage](https://github.com/krzyzanowskim/SwiftUI.AnimatedImage) - SwiftUI AnimatedImage View
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
 - [url-image](https://github.com/dmytro-anokhin/url-image) - AsyncImage before iOS 15. Lightweight, pure SwiftUI Image view, that displays an image downloaded from URL, with auxiliary views and local cache.
 - [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
