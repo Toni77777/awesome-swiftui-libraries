@@ -35,6 +35,7 @@
 - [Preview](#Preview)
 - [QRCode](#QRCode)
 - [Search](#Search)
+- [Settings](#Settings)
 - [State](#State)
 - [Scroll](#Scroll)
 - [Shapes](#Shapes)
@@ -233,6 +234,10 @@
 ## Search
 [scroll to top](#readme)
 - [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
+
+## Settings
+[scroll to top](#readme)
+- [RRSettingsKit](https://github.com/rryam/RRSettingsKit) - A beautiful customizable settings screen created in SwiftUI
 
 ## State
 [scroll to top](#readme)
