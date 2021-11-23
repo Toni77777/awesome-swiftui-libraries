@@ -173,6 +173,7 @@
 - [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
 - [NukeUI](https://github.com/kean/NukeUI) - Lazy image loading for SwiftUI
 - [SwURL](https://github.com/cmtrounce/SwURL) - Lightweight asynchronous image loading in SwiftUI. Fetch and display images from URLs.
+- [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - 🗃️ The simplest way to add cache to your AsyncImage.
 
 ## List
 [scroll to top](#readme) 
