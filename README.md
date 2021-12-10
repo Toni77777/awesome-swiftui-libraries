@@ -45,7 +45,7 @@
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [Speech](#Speech)
-- [TabBar](#TabBar & Tabs)
+- [TabBar and Tabs](#TabBar and Tabs)
 - [TextField](#TextField)
 - [TextView](#TextView)
 - [Toast and Popup](#Toast-and-Popup)
@@ -286,7 +286,7 @@
 [scroll to top](#readme)
 - [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
 
-## TabBar & Tabs
+## TabBar and Tabs
 [scroll to top](#readme)
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 - [FloatingTabBar](https://github.com/10011co/FloatingTabBar) - Aesthetic floating tab bar
