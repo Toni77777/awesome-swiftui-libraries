@@ -45,7 +45,7 @@
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [Speech](#Speech)
-- [TabBar & Tabs](#TabBar & Tabs)
+- [TabBar Tabs](#TabBar & Tabs)
 - [TextField](#TextField)
 - [TextView](#TextView)
 - [Toast and Popup](#Toast-and-Popup)
