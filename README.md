@@ -198,6 +198,7 @@
 - [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances.
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
 - [MDText](https://github.com/Lambdo-Labs/MDText) - s a markdown render library built in and for SwiftUI
+- [SwiftDown](https://github.com/qeude/SwiftDown) - A themable markdown editor component for your SwiftUI apps.
 
 ## Navigation
 [scroll to top](#readme)
