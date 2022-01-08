@@ -51,7 +51,6 @@
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
 - [Video](#Video)
-- [VisualEffect](#VisualEffect)
 - [Web](#Web)
 
 ## Alert
