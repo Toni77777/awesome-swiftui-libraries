@@ -233,6 +233,7 @@
 - [SafePreviewDevice](https://github.com/posix88/SafePreviewDevice) - Safe and fast access to SwiftUI PreviewDevice.
 - [FigmaPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) - Figma component preview for your SwiftUI views
 - [ZeplinPreviewSwiftUI](https://github.com/eDeniska/figma-preview-swiftui) - Zeplin component preview for your SwiftUI views
+- [Gala](https://github.com/finestructure/Gala) - Create SwiftUI preview variants for macOS, iOS, tvOS, and watchOS with ease
 
 ## QRCode
 [scroll to top](#readme)
