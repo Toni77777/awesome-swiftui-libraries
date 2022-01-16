@@ -136,6 +136,7 @@
 [scroll to top](#readme)
 - [ConfettiView](https://github.com/ziligy/ConfettiView) - a Confetti View for SwiftUI
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation
+- [SPConfetti](https://github.com/ivanvorobei/SPConfetti) - Show the confetti only when the user is having fun, and if not having fun, don't show it
 
 ## CoreData
 [scroll to top](#readme)
