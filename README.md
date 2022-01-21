@@ -203,13 +203,14 @@
 
 ## Navigation
 [scroll to top](#readme)
+- [Coordinator](https://github.com/SwiftUIX/Coordinator) - A declarative navigation API for SwiftUI.
+- [FlowStacks](https://github.com/johnpatrickmorgan/FlowStacks) - FlowStacks allows you to hoist SwiftUI navigation and presentation state into a Coordinator
 - [SwiftUIRouter](https://github.com/frzi/SwiftUIRouter) - Path based routing in SwiftUI
 - [Swift Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 - [stinsen](https://github.com/rundfunk47/stinsen) - Coordinators in SwiftUI. Simple, powerful and elegant.
 - [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [NavigationKit](https://github.com/rebeloper/NavigationKit) - SwiftUI navigation done right
 - [Router](https://github.com/1amageek/Router) - Router is a library that assists with SwiftUI view transitions.
-- [Coordinator](https://github.com/SwiftUIX/Coordinator) - A declarative navigation API for SwiftUI.
 
 ## Pages
 [scroll to top](#readme) 
