@@ -51,6 +51,7 @@
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
 - [Video](#Video)
+- [Whats New](#Whats-New)
 - [Web](#Web)
 
 ## Alert
@@ -323,6 +324,10 @@
 [scroll to top](#readme) 
 - [VideoPlayer](https://github.com/wxxsw/VideoPlayer) - A video player for SwiftUI, support for caching, preload and custom control view
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos
+
+## Whats-New
+[scroll to top](#readme)
+- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features
 
 ## Web
 [scroll to top](#readme)
