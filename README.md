@@ -64,6 +64,7 @@
 [scroll to top](#readme)
 - [swiftui-animations](https://github.com/amosgyamfi/swiftui-animation-library) - SwiftUI Animation Library. Useful SwiftUI animations including Loading/progress, Looping, On-off, Enter, Exit, Fade, Spin and Background animations that you can directly implement in your next iOS application or project. The library also contains huge examples of spring animations such as Inertial Bounce, Shake, Twirl, Jelly, Jiggle, Rubber Band…
 - [SwiftUI-Animation](https://github.com/Arvindcs/SwiftUI-Animation) - SwiftUI Animation
+- [Liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
 
 ## Audio
 [scroll to top](#readme)
