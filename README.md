@@ -33,6 +33,7 @@
 - [Pages](#Pages)
 - [Payment](#Payment)
 - [Permission](#Permission)
+- [Photo Picker](#Photo-Picker)
 - [Preview](#Preview)
 - [QRCode](#QRCode)
 - [Search](#Search)
@@ -232,6 +233,10 @@
 ## Permission
 [scroll to top](#readme)
 - [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
+
+## Photo-Picker
+[scroll to top](#readme)
+- [PhotoLibraryPicker](https://github.com/moifort/swiftUI-photo-library-picker) - Photo Library Picker for SwiftUI
 
 ## Preview
 [scroll to top](#readme)
