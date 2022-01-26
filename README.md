@@ -269,6 +269,7 @@
 [scroll to top](#readme)
 - [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of SwiftUI shapes
 - [morphi](https://github.com/phimage/morphi) - Shapes for SwiftUI
+- [SwiftUI-Shapes](https://github.com/kieranb662/SwiftUI-Shapes) - Commonly Used Shapes and Utilities In SwiftUI
 
 ## Sheet
 [scroll to top](#readme)
