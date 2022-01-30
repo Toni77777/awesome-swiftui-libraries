@@ -8,6 +8,7 @@
 - [Alert](#Alert)
 - [Animation](#Animation)
 - [Audio](#Audio)
+- [Bezier Path](#Bezier-Path)
 - [Blur](#Blur)
 - [Button](#Button)
 - [Calendar](#Calendar)
@@ -72,6 +73,10 @@
 [scroll to top](#readme)
 - [Subsonic](https://github.com/twostraws/Subsonic) - A small library that makes it easier to play audio with SwiftUI
 
+## Bezier-Path
+[scroll to top](#readme)
+- [SwiftUI-bez](https://github.com/kieranb662/SwiftUI-bez) - Utilities for working with bezier curves in SwiftUI
+ 
 ## Blur
 [scroll to top](#readme)
 - [Colorful](https://github.com/Co2333/Colorful) - A SwiftUI implementation of AppleCard's animated colorful blur background
