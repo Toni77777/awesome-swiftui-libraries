@@ -47,6 +47,7 @@
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [Speech](#Speech)
+- [SVG](#SVG)
 - [TabBar and Tabs](#TabBar-and-Tabs)
 - [TextField](#TextField)
 - [TextView](#TextView)
@@ -307,6 +308,10 @@
 ## Speech
 [scroll to top](#readme)
 - [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
+
+## SVG
+[scroll to top](#readme)
+- [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI
 
 ## TabBar-and-Tabs
 [scroll to top](#readme)
