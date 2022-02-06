@@ -275,6 +275,7 @@
 ## Scroll
 [scroll to top](#readme)
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
+- [SwiftUITrackableScrollView](https://github.com/maxnatchanon/trackable-scroll-view) - A SwiftUI custom scroll view with content offset binding
 
 ## Shapes
 [scroll to top](#readme)
