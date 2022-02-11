@@ -35,6 +35,7 @@
 - [Payment](#Payment)
 - [Permission](#Permission)
 - [Photo Picker](#Photo-Picker)
+- [Picker](#picker)
 - [Preview](#Preview)
 - [QRCode](#QRCode)
 - [Search](#Search)
@@ -243,6 +244,10 @@
 ## Photo-Picker
 [scroll to top](#readme)
 - [PhotoLibraryPicker](https://github.com/moifort/swiftUI-photo-library-picker) - Photo Library Picker for SwiftUI
+
+## Picker
+[scroll to top](#readme)
+- [SwiftUIWheelPicker](https://github.com/GGJJack/SwiftUIWheelPicker) - Custom horizontal wheel picker for SwiftUI
 
 ## Preview
 [scroll to top](#readme)
