@@ -52,6 +52,7 @@
 - [TabBar and Tabs](#TabBar-and-Tabs)
 - [TextField](#TextField)
 - [TextView](#TextView)
+- [Text](#Text)
 - [Toast and Popup](#Toast-and-Popup)
 - [Unit-testing](#Unit-testing)
 - [Video](#Video)
@@ -339,6 +340,10 @@
 ## TextView
 [scroll to top](#readme)
 - [TextView](https://github.com/kenmueller/TextView) - The missing TextView in SwiftUI
+
+## Text
+[scroll to top](#readme)
+- [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
