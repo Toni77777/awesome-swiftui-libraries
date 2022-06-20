@@ -344,6 +344,7 @@
 ## Text
 [scroll to top](#readme)
 - [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text
+- [MarqueeText](https://github.com/joekndy/MarqueeText) - Marquee or "scrolling text" effect in SwiftUI
 
 ## Toast-and-Popup
 [scroll to top](#readme) 
