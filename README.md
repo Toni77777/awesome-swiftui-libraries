@@ -336,6 +336,7 @@
 - [iPhoneNumberField](https://github.com/MojtabaHs/iPhoneNumberField) - Elegant SwiftUI phone number textField
 - [OmenTextField](https://github.com/kitlangton/OmenTextField) - A better TextField for SwiftUI. A growing, multiline, auto-focusable TextField supporting bindable focus
 - [Focuser](https://github.com/art-technologies/swift-focuser) - Focus text field in SwiftUI dynamically and progress through form using iOS keyboard
+- [KeyboardAvoider](https://github.com/michaelhenry/KeyboardAvoider) - The missing interactive keyboard in SwiftUI for iOS
 
 ## TextView
 [scroll to top](#readme)
