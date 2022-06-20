@@ -192,6 +192,7 @@
 - [NukeUI](https://github.com/kean/NukeUI) - Lazy image loading for SwiftUI
 - [SwURL](https://github.com/cmtrounce/SwURL) - Lightweight asynchronous image loading in SwiftUI. Fetch and display images from URLs.
 - [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - 🗃️ The simplest way to add cache to your AsyncImage.
+- [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - Image viewer built in SwiftUI for both local and remote images 
 
 ## List
 [scroll to top](#readme) 
