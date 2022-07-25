@@ -89,6 +89,7 @@
 ## Button
 [scroll to top](#readme)
 - [buttoncraft](https://github.com/atrinh0/buttoncraft) - Craft that perfect SwiftUI button effect
+- [CUIExpandableButton](https://github.com/robhasacamera/CUIExpandableButton) - A SwiftUI button that expands to show more content
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
 - [LoadingButton](https://github.com/changemin/LoadingButton) - Loading Animation Button for SwiftUI
 
