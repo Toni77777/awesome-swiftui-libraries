@@ -39,6 +39,7 @@
 - [Picker](#picker)
 - [Preview](#Preview)
 - [QRCode](#QRCode)
+- [Ratings](#Ratings)
 - [Search](#Search)
 - [Settings](#Settings)
 - [State](#State)
@@ -49,6 +50,7 @@
 - [Skeleton](#Skeleton)
 - [Slider](#Slider)
 - [Speech](#Speech)
+- [Stack](#Stack)
 - [SVG](#SVG)
 - [TabBar and Tabs](#TabBar-and-Tabs)
 - [TextField](#TextField)
@@ -272,6 +274,10 @@
 - [CarBode](https://github.com/heart/CarBode-Barcode-Scanner-For-SwiftUI) - CarBode : Free & Opensource barcode scanner & generator for SwiftUI
 - [CodeScanner](https://github.com/eDeniska/zeplin-preview-swiftui) - A SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
 
+## Ratings
+[scroll to top](#readme)
+- [StarRating](https://github.com/dkk/StarRating) - A customizable star rating control
+
 ## Search
 [scroll to top](#readme)
 - [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
@@ -290,6 +296,7 @@
 [scroll to top](#readme)
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - A SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header)
 - [SwiftUITrackableScrollView](https://github.com/maxnatchanon/trackable-scroll-view) - A SwiftUI custom scroll view with content offset binding
+- [ScrollViewIfNeeded](https://github.com/dkk/ScrollViewIfNeeded) - A SwiftUI ScrollView that only scrolls if the content doesn't fit in the View
 
 ## Shapes
 [scroll to top](#readme)
@@ -306,10 +313,6 @@
 - [ActionOver](https://github.com/AndreaMiotto/ActionOver) - A custom SwiftUI modifier to present an ActionSheet or a Popover menu
 - [BetterSheet](https://github.com/egeniq/BetterSheet) - A powerful SwiftUI sheet replacement
 
-## Step
-[scroll to top](#readme)
-- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
-
 ## Skeleton
 [scroll to top](#readme)
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
@@ -323,6 +326,14 @@
 ## Speech
 [scroll to top](#readme)
 - [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
+
+## Stack
+[scroll to top](#readme)
+- [WrappingHStack](https://github.com/dkk/WrappingHStack) - Like HStack, but automatically positions overflowing elements on next lines.
+
+## Step
+[scroll to top](#readme)
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
 ## SVG
 [scroll to top](#readme)
