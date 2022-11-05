@@ -75,6 +75,7 @@
 - [Liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI
 - [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 - [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
+- [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation animated transitions
 
 ## Audio
 [scroll to top](#readme)
