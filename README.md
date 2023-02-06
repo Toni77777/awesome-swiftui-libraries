@@ -224,7 +224,7 @@
 
 ## Map
 [scroll to top](#readme)
-[InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
+- [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 
 ## Menu
 [scroll to top](#readme)
