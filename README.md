@@ -30,7 +30,7 @@
 - [List](#List)
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
-- [Map] (#Map)
+- [Map](#Map)
 - [Menu](#Menu)
 - [Navigation](#Navigation)
 - [Pages](#Pages)
