@@ -30,6 +30,7 @@
 - [List](#List)
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
+- [Map](#Map)
 - [Menu](#Menu)
 - [Navigation](#Navigation)
 - [Pages](#Pages)
@@ -220,6 +221,10 @@
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown text in SwiftUI
 - [MDText](https://github.com/Lambdo-Labs/MDText) - s a markdown render library built in and for SwiftUI
 - [SwiftDown](https://github.com/qeude/SwiftDown) - A themable markdown editor component for your SwiftUI apps.
+
+## Map
+[scroll to top](#readme)
+- [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 
 ## Menu
 [scroll to top](#readme)
