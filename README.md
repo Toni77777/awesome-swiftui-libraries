@@ -189,6 +189,7 @@
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
 - [Micro](https://github.com/onmyway133/Micro) - Fast diffing and type safe SwiftUI style data source for UICollectionView
+- [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI
 
 ## Image 
 [scroll to top](#readme) 
