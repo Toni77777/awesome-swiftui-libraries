@@ -262,6 +262,7 @@
 ## Photo-Picker
 [scroll to top](#readme)
 - [PhotoLibraryPicker](https://github.com/moifort/swiftUI-photo-library-picker) - Photo Library Picker for SwiftUI
+- [MediaPicker](https://github.com/exyte/mediapicker) - Customizable media picker written with SwiftUI
 
 ## Picker
 [scroll to top](#readme)
