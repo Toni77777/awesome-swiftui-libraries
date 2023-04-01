@@ -348,6 +348,7 @@
 
 ## TabBar-and-Tabs
 [scroll to top](#readme)
+- [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations written in pure SwiftU
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 - [FloatingTabBar](https://github.com/10011co/FloatingTabBar) - Aesthetic floating tab bar
 - [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) - A SwiftUI TabView that retains the state of each tab as well as some other goodies.
