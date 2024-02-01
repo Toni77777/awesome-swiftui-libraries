@@ -355,6 +355,7 @@
 - [FloatingTabBar](https://github.com/10011co/FloatingTabBar) - Aesthetic floating tab bar
 - [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) - A SwiftUI TabView that retains the state of each tab as well as some other goodies.
 - [SlidingTabView](https://github.com/QuynhNguyen/SlidingTabView) - SwiftUI - Sliding Tab View
+- [SwiftUIMaterialTabs](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 
 ## TextField
 [scroll to top](#readme)
