@@ -111,6 +111,7 @@
 - [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
 - [CameraView](https://github.com/brettfazio/CameraView) - SwiftUI View for live camera output
 - [SwiftUICam](https://github.com/pierreveron/SwiftUICam) - A Snapchat Style Camera View to use with a SwiftUI interface
+- [MijickCamera](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 
 ## Card
 [scroll to top](#readme)
