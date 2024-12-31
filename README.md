@@ -174,6 +174,7 @@
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
 - [MijickTimer](https://github.com/Mijick/Timer) - Modern API for Timer
+- [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) - Encapsulates your SwiftUI deprecation handling logic.
 
 ## Game
 [scroll to top](#readme)
