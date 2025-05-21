@@ -142,6 +142,7 @@
 ## Clock
 [scroll to top](#readme)
 - [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - SwiftUI library to display a clock. You can move the arms to change the time, change the style of the clock and customise some configurations.
+- [SwiftClockKit](https://github.com/ibvildthings/SwiftClockKit) - SwiftClockKit lets you effortlessly add beautiful, customizable clock faces to your iOS apps with just a few lines of code.
 
 ## Collection
 [scroll to top](#readme)
