@@ -236,6 +236,7 @@
 [scroll to top](#readme)
 - [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 - [DotGlobe](https://github.com/inventhq/dot-globe) - A Library to that draws a dotted earth map to a globe and allows you to interract with it
+- [MapMetrics iOS](https://github.com/MapMetrics/MapMetrics-iOS) - Mapbox GL-compatible iOS SDK for interactive vector maps with geocoding, routing, and search.
 ## Menu
 [scroll to top](#readme)
 - [SideMenu](https://github.com/akardas16/SideMenu) - This repository shows Side Menu written with SwiftUI
