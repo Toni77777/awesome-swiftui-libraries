@@ -344,6 +344,7 @@
 
 ## Speech
 [scroll to top](#readme)
+- [DailyVox](https://getdailyvox.com) - Voice diary using SwiftUI with on-device Speech and NaturalLanguage frameworks. ([App Store](https://apps.apple.com/app/id6760454642))
 - [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
 
 ## Stack
