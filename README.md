@@ -2,6 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-%20%40Toni777772-blue)](https://twitter.com/Toni777772)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=Toni77777_awesome-swiftui-libraries) - Follow mobile devs on GitHub and see what repos they star across iOS, Android, and cross-platform.
 ## Do you know a cool SwiftUI library? Welcome to contribute!
 
 ### Content
