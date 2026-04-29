@@ -298,6 +298,7 @@
 
 ## Search
 [scroll to top](#readme)
+- [ShopSavvy](https://github.com/shopsavvy/swiftui-shopsavvy) - SwiftUI views and @Observable view models for product search, price comparison, and deal discovery
 - [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - A small, lightweight UISearchController wrapper for SwiftUI
 
 ## Settings
