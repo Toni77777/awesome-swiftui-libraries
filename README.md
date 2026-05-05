@@ -31,6 +31,7 @@
 - [Loading Indicator](#Loading-Indicator)
 - [Markdown](#Markdown)
 - [Map](#Map)
+- [Messaging](#Messaging)
 - [Menu](#Menu)
 - [Navigation](#Navigation)
 - [Pages](#Pages)
@@ -236,6 +237,11 @@
 [scroll to top](#readme)
 - [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 - [DotGlobe](https://github.com/inventhq/dot-globe) - A Library to that draws a dotted earth map to a globe and allows you to interract with it
+
+## Messaging
+[scroll to top](#readme)
+- [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
+
 ## Menu
 [scroll to top](#readme)
 - [SideMenu](https://github.com/akardas16/SideMenu) - This repository shows Side Menu written with SwiftUI
