@@ -237,6 +237,7 @@
 [scroll to top](#readme)
 - [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 - [DotGlobe](https://github.com/inventhq/dot-globe) - A Library to that draws a dotted earth map to a globe and allows you to interract with it
+- [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
 
 ## Messaging
 [scroll to top](#readme)
