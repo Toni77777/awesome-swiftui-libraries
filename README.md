@@ -23,6 +23,7 @@
 - [CoreData](#CoreData)
 - [Debug](#Debug)
 - [Extensions](#Extensions)
+- [Feedback](#Feedback)
 - [Game](#Game)
 - [Gradient](#Gradient)
 - [Grid](#Grid)
@@ -177,6 +178,10 @@
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
 - [MijickTimer](https://github.com/Mijick/Timer) - Modern API for Timer
 - [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) - Encapsulates your SwiftUI deprecation handling logic.
+
+## Feedback
+[scroll to top](#readme)
+- [WishKit](https://github.com/wishkit/wishkit-ios) - In-app feature request and feedback board where users submit and vote on features
 
 ## Game
 [scroll to top](#readme)
