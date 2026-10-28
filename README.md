@@ -79,6 +79,8 @@
 - [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 - [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
 - [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation animated transitions
+- [SiriGlass](https://github.com/haplollc/SiriGlass) - Liquid Glass that pours out of the Dynamic Island and lights up with your voice, in one modifier.
+- [KoiPond](https://github.com/haplollc/KoiPond) - A living koi pond for SwiftUI: koi glide over any view, lily pads drift on top, and a Metal shader ripples and refracts it all. Tap to feed, drag to stir.
 
 ## Audio
 [scroll to top](#readme)
@@ -230,6 +232,8 @@
 - [LoaderUI](https://github.com/ninjaprox/LoaderUI) - NVActivityIndicatorView implemented in SwiftUI
 - [JGProgressHUD-SwiftUI](https://github.com/JonasGessner/JGProgressHUD-SwiftUI) - Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst
 - [iActivityIndicator](https://github.com/MojtabaHs/iActivityIndicator) - A Native SwiftUI Activity Indicator Pack
+- [ThinkingOrbs](https://github.com/haplollc/ThinkingOrbs) - Dotted, honestly-3D loading indicators for AI and agent interfaces. Nine hand-tuned designs in two tuned sizes.
+- [ProcessingField](https://github.com/haplollc/ProcessingField) - A progress field: a grid of marks whose sizes describe one soft shape that drifts, folds and breathes while the app is busy.
 
 ## Markdown
 [scroll to top](#readme) 
@@ -243,6 +247,7 @@
 - [InteractiveMap](https://github.com/grandsir/InteractiveMap) - A Library to draw interactive maps and SVGs in SwiftUI
 - [DotGlobe](https://github.com/inventhq/dot-globe) - A Library to that draws a dotted earth map to a globe and allows you to interract with it
 - [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) - A native Swift + Metal vector-tile map engine for SwiftUI with a 3D globe, starfield and labels
+- [ClayGlobe](https://github.com/haplollc/ClayGlobe) - A claymorphic 3D globe that plants a waving flag on every country you visit.
 
 ## Messaging
 [scroll to top](#readme)
@@ -354,6 +359,7 @@
 - [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - A sliding ruler control for SwiftUI
 - [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
 - [SwiftUI Value Slider](https://github.com/sanhee16/SwiftUIValueSlider) - SwiftUI Sliders with current value of thumb
+- [Scrubbers](https://github.com/haplollc/Scrubbers) - Twelve sliders you'll want to touch: Liquid Glass, jelly, elastic, fluid, squiggle, thermostat, swing, mood and more.
 
 ## Speech
 [scroll to top](#readme)
@@ -370,6 +376,7 @@
 ## SVG
 [scroll to top](#readme)
 - [SVGView](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI
+- [Minted](https://github.com/haplollc/Minted) - Turn any SVG into a physically-lit 3D gold medallion, with cloisonne enamel and engraved lettering.
 
 ## TabBar-and-Tabs
 [scroll to top](#readme)
