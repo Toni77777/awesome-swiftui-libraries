@@ -79,6 +79,7 @@
 - [shiny](https://github.com/maustinstar/shiny) - Shiny uses your gyroscope to simulate lighting and motion effects on colors. Works on almost every SwiftUI View
 - [SwiftUIPathAnimations](https://github.com/adellibovi/SwiftUI-PathAnimations/blob/master/Package.swift) - Tools for SwiftUI that helps perform Path and Shape animations, such us morphing circle or shape transformations
 - [NavigationTransitions](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation animated transitions
+- [LiquidPhotos](https://github.com/haplollc/LiquidPhotos) - Photos that flow into each other for SwiftUI: every pixel travels to its place in the next photo, same-scene photos align into a camera glide, one Metal pass at up to 120 Hz.
 
 ## Audio
 [scroll to top](#readme)
