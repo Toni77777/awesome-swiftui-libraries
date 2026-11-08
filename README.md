@@ -249,6 +249,9 @@
 - [swiftui-messaging-ui](https://github.com/FluidGroup/swiftui-messaging-ui) - A SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.
 
 ## Menu
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 [scroll to top](#readme)
 - [SideMenu](https://github.com/akardas16/SideMenu) - This repository shows Side Menu written with SwiftUI
 
